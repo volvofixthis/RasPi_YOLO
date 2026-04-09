@@ -1,0 +1,14 @@
+# Train images
+train: /home/laki/data/bet_jack/train.txt
+
+# Validation images
+val: /home/laki/data/bet_jack/val.txt
+
+# Test images
+test: /home/laki/data/bet_jack/test.txt
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['bet', 'jack']

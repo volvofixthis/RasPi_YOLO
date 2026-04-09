@@ -1,0 +1,14 @@
+# Train images
+train: /home/laki/data/plastic_bottles/test/train_onnx.txt
+
+# Validation images
+val: /home/laki/data/plastic_bottles/test/val_onnx.txt
+
+# Test images
+test: /home/laki/data/plastic_bottles/test/test_onnx.txt
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['bottle']
